@@ -1,2 +1,2 @@
 streamlit
-lyricsgenius
+lyricsgenius==3.0.1
